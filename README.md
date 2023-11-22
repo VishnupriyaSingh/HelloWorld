@@ -1,2 +1,2 @@
 # HelloWorld
-Java Practice
+Day-1 Java Practice
